@@ -1,0 +1,32 @@
+package ar.edu.info.unlp.ejercicioDemo;
+
+import java.util.ArrayList;
+
+public class Usuario {
+	private ArrayList <Tweet> Tweets;
+	private String nom;
+	
+	
+	public void elimMen () {
+		this.Tweets.clear();
+	}
+
+	public ArrayList<Tweet> getTweets() {
+		return Tweets;
+	}
+
+	public void setTweets(ArrayList<Tweet> tweets) {
+		Tweets = tweets;
+	}
+
+	public String getNom() {
+		return nom;
+	}
+
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+	
+	
+	
+}

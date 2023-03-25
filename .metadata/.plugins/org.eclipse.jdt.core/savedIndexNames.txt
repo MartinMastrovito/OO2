@@ -1,0 +1,10 @@
+INDEX VERSION 1.132+/home/martinmastrovito/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+562420448.index
+1447892640.index
+1015538914.index
+2154677714.index
+2138016625.index
+3584037872.index
+1865797976.index
+210162161.index
+296686307.index

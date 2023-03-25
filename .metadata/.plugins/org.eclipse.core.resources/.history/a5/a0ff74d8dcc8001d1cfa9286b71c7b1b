@@ -1,0 +1,14 @@
+package ar.edu.info.unlp.ejercicioDemo;
+
+import java.util.ArrayList;
+
+public class Twitter {
+	ArrayList<Usuario> listU;
+	
+	
+	Public void elimUsu (Usuario nom) {
+		nom
+		
+		
+	}
+}

@@ -1,0 +1,15 @@
+package ar.edu.info.unlp.ejercicioDemo;
+
+import java.util.ArrayList;
+
+public class Twitter {
+	ArrayList<Usuario> listU;
+	
+	
+	public void elimUsu (Usuario nom) {
+		nom.elimMen();
+		this.listU.stream().filter(nom -> nom.nom)
+		
+		
+	}
+}
